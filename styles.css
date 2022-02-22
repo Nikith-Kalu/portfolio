@@ -61,11 +61,11 @@ body, html {
   animation-delay: 6s; 
 }
 .cb-slideshow li:nth-child(3) span { 
-  background-image: url(../images/3.jpg);
+  background-image: url(/images/background3.jpg);
   animation-delay: 12s; 
 }
 .cb-slideshow li:nth-child(4) span { 
-  background-image: url(../images/4.jpg);
+  background-image: url(/images/background4.jpg);
   animation-delay: 18s; 
 }
 .cb-slideshow li:nth-child(5) span { 
