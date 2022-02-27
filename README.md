@@ -1,2 +1,2 @@
 # Nikith-Kalu | Portfolio
-The website that houses my work
+The website that has my portfolio on it
