@@ -76,7 +76,33 @@ body, html {
   background-image: url(/images/Slideshow/6.jpg);
   animation-delay: 25s; 
 }
-
+.cb-slideshow li:nth-child(7) span { 
+  background-image: url(/images/Slideshow/7.jpg)
+  animation-delay: 30s;
+}
+.cb-slideshow li:nth-child(8) span { 
+  background-image: url(/images/Slideshow/8.jpg);
+  animation-delay: 35s; 
+}
+.cb-slideshow li:nth-child(9) span { 
+  background-image: url(/images/Slideshow/9.jpg);
+  animation-delay: 40s; 
+}
+.cb-slideshow li:nth-child(10) span { 
+  background-image: url(/images/Slideshow/10.jpg);
+  animation-delay: 45s; 
+}
+.cb-slideshow li:nth-child(11) span { 
+  background-image: url(/images/Slideshow/11.jpg);
+  animation-delay: 50s; 
+}
+.cb-slideshow li:nth-child(12) span { 
+  background-image: url(/images/Slideshow/12.jpg);
+  animation-delay: 55s; 
+}
+.cb-slideshow li:nth-child(1) div { 
+  animation-delay: 0s; 
+}
 .cb-slideshow li:nth-child(2) div { 
   animation-delay: 5s; 
 }
@@ -91,6 +117,24 @@ body, html {
 }
 .cb-slideshow li:nth-child(6) div { 
   animation-delay: 25s; 
+}
+.cb-slideshow li:nth-child(7) div { 
+  animation-delay: 30s; 
+}
+.cb-slideshow li:nth-child(8) div { 
+  animation-delay: 35s; 
+}
+.cb-slideshow li:nth-child(9) div { 
+  animation-delay: 40s; 
+}
+.cb-slideshow li:nth-child(10) div { 
+  animation-delay: 45s; 
+}
+.cb-slideshow li:nth-child(11) div { 
+  animation-delay: 50s; 
+}
+.cb-slideshow li:nth-child(12) div { 
+  animation-delay: 55s; 
 }
 
 @keyframes imageAnimation { 
